@@ -4,16 +4,16 @@
 
 ## What this is
 
-<!-- TODO: fill in the project subject. This is a documentation set, same shape as the
-     MSFabric project. Describe the domain, the audience, and what the docs cover. -->
-
-_(Subject to be defined — replace this section with a short description of the domain,
-the intended consumers, and the deliverables.)_
+A documentation set about **weight-loss injectable medications** — the "canetas emagrecedoras"
+(GLP-1 / incretin-class drugs and related peptides). Plain-language research dossiers grounded in
+official and peer-reviewed sources, so the reader arrives well-informed to a medical consultation.
+The user is Portuguese-speaking (Brazil) and overweight, weighing options — the tone is informative,
+**not** medical advice, and always points to professional follow-up.
 
 ## Repo layout
 
+- `Pesquisas/` — research dossiers per drug/topic (e.g. `Retatrutida.md`)
 - `md2docx.py` — repo-root tooling: stdlib-only Markdown → `.docx` generator (see below)
-- _(Add directories as content is created, e.g. `Architecture/`, `Governance/`, `Archive/`.)_
 
 ## Working conventions (follow without being re-asked)
 
