@@ -1,0 +1,14 @@
+# Microsoft Office temp / lock files
+~$*
+*.tmp
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
